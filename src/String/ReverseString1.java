@@ -1,7 +1,7 @@
  package String;
 
 public class ReverseString1 {
-
+//reverse string
 	public static void main(String[] args) {
 		String s="Hello";
 		String rev="";
